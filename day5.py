@@ -23,5 +23,3 @@ for start,end in points:
             y1 += ydir
 
 print(sum(v > 1 for v in the_grid_a_digital_frontier.values()))
-
-
